@@ -11,3 +11,6 @@
 	
 -Second version :
 	Injection par Reflection
+
+-Version 3
+	Mini framework of IOC
